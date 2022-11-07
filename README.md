@@ -21,3 +21,5 @@ For this competition we are using data from the publicly available [County Healt
 
 ### Miscellaneous  
 **LICENSE**: We will be using the open source Apache 2.0 License for this competition. [Click here to learn more](https://choosealicense.com/licenses/apache-2.0/)
+
+**.gitignore**: This file is used to determine what file types to ignore when pushing your code to the main github repository in order to keep it clean
