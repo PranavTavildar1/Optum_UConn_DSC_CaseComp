@@ -10,7 +10,7 @@ This is where you'll put your code. You may use whatever language or software yo
 ### Presentation
 This directory is where you will put a pdf of your final presentation and/or any code you used to generate your final presentation. The grading rubric and guidelines can also be found here.
 
-### Data Files Directory
+### Data Files
 For this competition we are using data from the publicly available [County Health Rankings Dataset]()
 
 **2022 County Health Rankings Data.xlsx**: This is a data dictionary of all the health measures for 2022. It includes a rank list of multiple health and social factors for all US counties. It allows comparison within a state. It is very well formatted for rapid Exploratory Data Analysis [Click here to see the Documentation](https://www.countyhealthrankings.org/sites/default/files/media/document/DataDictionary_2022.pdf)
